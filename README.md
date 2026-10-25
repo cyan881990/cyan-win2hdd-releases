@@ -4,6 +4,10 @@
 
 [**Tải bản thử nghiệm tại Releases**](https://github.com/cyan881990/cyan-win2hdd-releases/releases)
 
+**Preview.2** có logo CYAN riêng, giao diện sáng và trình cài đặt 3 bước. [Xem bản phát hành](https://github.com/cyan881990/cyan-win2hdd-releases/releases/tag/v0.1.0-preview.2).
+
+![Giao diện CYAN Win2HDD preview.2](https://github.com/cyan881990/cyan-win2hdd-releases/releases/download/v0.1.0-preview.2/CYAN-Win2HDD-preview.png)
+
 - `CYAN.Win2HDD-win-Setup.exe`: bộ cài cho tài khoản Windows hiện tại, có tích hợp cập nhật Velopack.
 - `CYAN.Win2HDD-win-Portable.zip`: bản chạy từ thư mục; cài bằng Setup để dùng cập nhật tự động.
 - `.nupkg`, `releases.win.json`, `RELEASES`, `assets.win.json`: dữ liệu dành cho updater.
