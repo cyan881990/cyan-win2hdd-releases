@@ -2,11 +2,11 @@
 
 Ứng dụng tiếng Việt để chuẩn bị cài lại Windows 10/11 x64 trên UEFI/GPT, không cần USB. Mã nguồn được quản lý ở repository private riêng; kho này chứa bộ cài và gói cập nhật.
 
-[**Tải CYAN Win2HDD trên CYANPRO**](https://cyanpro.app/tools/cyan-win2hdd) · [Release preview.4](https://github.com/cyan881990/cyan-win2hdd-releases/releases/tag/v0.1.0-preview.4)
+[**Tải CYAN Win2HDD trên CYANPRO**](https://cyanpro.app/tools/cyan-win2hdd) · [Release preview.5](https://github.com/cyan881990/cyan-win2hdd-releases/releases/tag/v0.1.0-preview.5)
 
 **Preview.4** bổ sung đăng nhập CYANPRO, quản lý license, logo mới và cập nhật theo phiên bản/link do CYANPRO cung cấp. Xem cấu hình và tải ISO miễn phí; chuẩn bị bộ cài và tạo lượt boot cần đăng nhập với license hợp lệ.
 
-![CYAN Win2HDD](https://github.com/cyan881990/cyan-win2hdd-releases/releases/download/v0.1.0-preview.4/CYAN-Win2HDD-cover-1920x640.png)
+![CYAN Win2HDD](https://github.com/cyan881990/cyan-win2hdd-releases/releases/download/v0.1.0-preview.5/CYAN-Win2HDD-cover-1920x640.png)
 
 - `CYAN.Win2HDD-win-Setup.exe`: bộ cài cho tài khoản Windows hiện tại, tích hợp cập nhật Velopack qua link CYANPRO.
 - `CYAN.Win2HDD-win-Portable.zip`: bản chạy từ thư mục; khi có bản mới, mở link Setup do CYANPRO trả về.
