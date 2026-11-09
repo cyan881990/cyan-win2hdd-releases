@@ -2,11 +2,11 @@
 
 Ứng dụng tiếng Việt để chuẩn bị cài lại Windows 10/11 hoặc Windows Server 2019/2022/2025 x64 trên UEFI/GPT, không cần USB. Mã nguồn nằm trong repository private riêng; kho này chứa bộ cài và gói cập nhật.
 
-[**Tải CYAN Win2HDD trên CYANPRO**](https://cyanpro.app/tools/cyan-win2hdd) · [Release preview.8](https://github.com/cyan881990/cyan-win2hdd-releases/releases/tag/v0.1.0-preview.8)
+[**Tải CYAN Win2HDD trên CYANPRO**](https://cyanpro.app/tools/cyan-win2hdd) · [Release preview.9](https://github.com/cyan881990/cyan-win2hdd-releases/releases/tag/v0.1.0-preview.9)
 
-**Preview.8** sửa nhận diện BCD bằng GUID object đầy đủ, phân biệt lỗi đọc và xung đột thật. Tác vụ Đã chuẩn bị cũng cho hủy entry còn sót; engine kiểm tra nhãn CYAN trước khi xóa. Giữ hỗ trợ Server 2019/2022/2025 và bản sửa JSON ISO. Kiểm thử BCD dùng executable giả; chưa nghiệm thu boot thật trong VM.
+**Preview.9** bổ sung **Kiểm tra khởi động** trong **Tác vụ và nhật ký**. Cấp quyền quản trị để xem BCD, quyền thư mục chứa bộ cài và dấu vết WinPE. Bấm **Lưu báo cáo…** để xuất TXT, kể cả khi danh sách tác vụ bị chặn bởi ACL.
 
-![CYAN Win2HDD](https://github.com/cyan881990/cyan-win2hdd-releases/releases/download/v0.1.0-preview.8/CYAN-Win2HDD-preview.png)
+![CYAN Win2HDD](https://github.com/cyan881990/cyan-win2hdd-releases/releases/download/v0.1.0-preview.9/CYAN-Win2HDD-preview.png)
 
 - `CYAN.Win2HDD-win-Setup.exe`: bộ cài cho tài khoản Windows hiện tại, tích hợp cập nhật Velopack qua link CYANPRO.
 - `CYAN.Win2HDD-win-Portable.zip`: bản chạy từ thư mục; khi có bản mới, mở link Setup do CYANPRO trả về.
